@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+# start services
+sudo service snowcamp-demo-0.1.0 start
