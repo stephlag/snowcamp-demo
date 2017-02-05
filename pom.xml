@@ -12,7 +12,7 @@
 
     <groupId>fr.ippon</groupId>
     <artifactId>snowcamp-demo</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
     <name>Snowcamp demo service</name>
     <description>A Spring Boot service that provides basic information for the overall services</description>
 
