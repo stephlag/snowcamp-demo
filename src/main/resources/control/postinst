@@ -2,4 +2,5 @@
 
 
 # start services
+sleep 10
 sudo service snowcamp-demo-0.1.2 start
