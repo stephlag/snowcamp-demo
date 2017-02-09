@@ -1,5 +1,5 @@
 #!/bin/bash
 
-
+sudo update-rc.d -f snowcamp-demo-0.2.1 defaults
 # start services
-sudo service snowcamp-demo-0.2.0 start
+# sudo service snowcamp-demo-0.2.0 start
