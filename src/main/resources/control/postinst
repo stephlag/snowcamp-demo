@@ -2,5 +2,4 @@
 
 
 # start services
-sleep 20
-sudo service snowcamp-demo-0.1.4 start
+sudo service snowcamp-demo-0.1.5 start
