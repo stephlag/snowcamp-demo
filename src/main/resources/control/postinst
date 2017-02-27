@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Launch at startup
-sudo update-rc.d -f snowcamp-demo-0.2.3 defaults
+sudo update-rc.d -f snowcamp-demo-0.3.0 defaults
